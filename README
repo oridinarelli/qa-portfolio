@@ -1,0 +1,95 @@
+# 🧪 QA Portfolio – Oriana Dinarelli
+
+## 👩‍💻 Sobre mí
+
+Soy QA con experiencia en testing funcional, automatización y diseño de procesos de calidad.
+
+Tengo foco en asegurar la calidad del producto mediante pruebas bien estructuradas, automatización y mejora continua del proceso de testing.
+
+---
+
+## 🚀 Proyectos
+
+### 🔹 Automatización UI – Playwright
+
+👉 https://github.com/oridinarelli/playwright-ui-demo
+
+Proyecto de automatización end-to-end sobre una aplicación web.
+
+**Incluye:**
+- Login, Inventory y Checkout
+- Page Object Model (POM)
+- Casos positivos y negativos
+- Separación Smoke / Regression
+- Manejo de múltiples ambientes
+- Integración con GitHub Actions (CI/CD)
+
+---
+
+### 🔹 Automatización API – Playwright
+
+👉 https://github.com/oridinarelli/playwright-api-demo
+
+Proyecto de testing de APIs utilizando Playwright.
+
+**Incluye:**
+- Testing de endpoints GET y POST
+- Validación de status codes y response body
+- Testing de autenticación (login)
+- Casos positivos y negativos
+- Separación Smoke / Regression
+- Configuración por ambientes
+- Integración con CI
+
+---
+
+## 📄 Documentación QA
+
+### 🔹 Test Plan
+👉 https://docs.google.com/document/d/1V0GzJC_CmBMZO3LHPQdorOcvJ3EkQTufBjxWoesXHuc/edit?usp=drive_link
+
+Documento con la planificación de pruebas, alcance, riesgos y estrategia de testing.
+
+---
+
+### 🔹 Casos de Prueba
+👉 https://docs.google.com/spreadsheets/d/13yw8qzrXTntRD0hE9bU59WABogku2FK9CIqKm2eI6GM/edit?usp=drive_link
+
+Casos de prueba diseñados con estructura clara:
+- Precondiciones
+- Pasos
+- Resultados esperados
+- Tipo de ejecución 
+
+---
+
+### 🔹 Reporte de Bugs
+👉 https://docs.google.com/document/d/1HOvOh0DCtqzopx_kUm4A3y3uSzKv5Bo0goSyVwg0sEw/edit?usp=drive_link
+
+Ejemplos de bugs documentados con:
+- Descripción clara
+- Precondiciones
+- Datos de prueba
+- Pasos para reproducir
+- Resultado esperado vs actual
+- Evidencia
+
+---
+
+## ⚙️ Habilidades
+
+- Testing funcional
+- Diseño de casos de prueba
+- Smoke y Regression testing
+- Playwright (UI y API)
+- Postman
+- SQL - Mongo DB
+- Git / GitHub
+- Manejo de ambientes (QA, staging)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/oriana-dinarelli-601b8b146/
+- Email: ori.dinarelli@gmail.com
