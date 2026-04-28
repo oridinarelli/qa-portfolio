@@ -33,13 +33,12 @@ Proyecto de automatización end-to-end sobre una aplicación web.
 Proyecto de testing de APIs utilizando Playwright.
 
 **Incluye:**
-- Testing de endpoints GET y POST
+- Testing de endpoints GET, POST, PUT, PATCH y DELETE
 - Validación de status codes y response body
-- Testing de autenticación (login)
 - Casos positivos y negativos
 - Separación Smoke / Regression
 - Configuración por ambientes
-- Integración con CI
+- Integración con GitHub Actions (CI)
 
 ---
 
