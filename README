@@ -76,6 +76,17 @@ Ejemplos de bugs documentados con:
 
 ---
 
+### 🤖 Generador de Casos de Prueba desde HU
+
+Herramienta que permite generar casos de prueba automáticamente a partir de una Historia de Usuario.
+
+**Input:** Historia de Usuario: https://docs.google.com/document/d/1NRM88j0flqq1Y8OetiPrRKFz0NRtswSDjaKgm0178Hs/edit?usp=drive_link 
+**Output:** Casos de prueba estructurados (Precondiciones, Pasos, Resultado esperado)
+
+🔗 Ver proyecto: https://chatgpt.com/g/g-69e650007fa88191b5015999e82f36c8-prompt-qa-portfolio 
+
+---
+
 ## ⚙️ Habilidades
 
 - Testing funcional
