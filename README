@@ -42,6 +42,21 @@ Proyecto de testing de APIs utilizando Playwright.
 
 ---
 
+### API Testing – Postman + Newman
+
+https://github.com/oridinarelli/postman-api-tests
+
+Proyecto de testing de APIs utilizando Postman, Newman y GitHub Actions.
+
+**Incluye:**
+- Colección Postman con requests CRUD
+- Validaciones de status code, headers, estructura y tipos de datos
+- Uso de variables de entorno
+- Ejecución por CLI con Newman
+- Integración con GitHub Actions (CI/CD)
+
+---
+
 ## 📄 Documentación QA
 
 ### 🔹 Test Plan
@@ -92,7 +107,7 @@ Herramienta que permite generar casos de prueba automáticamente a partir de una
 - Diseño de casos de prueba
 - Smoke y Regression testing
 - Playwright (UI y API)
-- Postman
+- Postman / Newman
 - SQL - Mongo DB
 - Git / GitHub
 - Manejo de ambientes (QA, staging)
