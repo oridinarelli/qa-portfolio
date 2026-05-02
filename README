@@ -89,6 +89,19 @@ Ejemplos de bugs documentados con:
 - Evidencia
 
 ---
+### 📊 QA Metrics Dashboard
+
+Proyecto de métricas QA diseñado para monitorear la calidad del testing por sprint.
+
+Incluye:
+- Seguimiento de ejecución de pruebas
+- Resultados de testing (pass, fail, blocked)
+- Distribución de bugs por entorno (QA, Staging, Producción)
+- Cálculo de Escape Rate
+
+📂 Ver implementación: https://docs.google.com/spreadsheets/d/1H75Y-G6G6UmpdX81GjE3Waedc9O4WObD62r0Pen-b1c/edit?usp=sharing 
+
+---
 
 ### 🤖 Generador de Casos de Prueba desde HU
 
