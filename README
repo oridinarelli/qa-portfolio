@@ -57,6 +57,29 @@ Proyecto de testing de APIs utilizando Postman, Newman y GitHub Actions.
 
 ---
 
+# SQL Test Data Management
+
+https://github.com/oridinarelli/sql-test-data-management
+
+Proyecto orientado a la gestión de datos de prueba para QA.
+
+## 🎯 Objetivo
+Simular un flujo real de preparación, validación y limpieza de datos en ambientes de testing.
+
+## 📂 Estructura
+- schema → creación de base y tablas
+- seed → inserción de datos
+- queries → validaciones SQL
+- cleanup → limpieza de información
+
+## 🚀 Tecnologías
+- PostgreSQL 
+- Docker 
+- DBeaver 
+- SQL
+
+---
+
 ## 📄 Documentación QA
 
 ### 🔹 Test Plan
